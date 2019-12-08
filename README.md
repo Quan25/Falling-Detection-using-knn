@@ -12,17 +12,7 @@
 
   - This is the training data and the test data:
 
-  <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-  .tg .tg-dxjg{color:#fe0000;border-color:#fe0000;text-align:center;vertical-align:top}
-  .tg .tg-s256{color:#fe0000;border-color:#fe0000;text-align:left;vertical-align:top}
-  .tg .tg-kwiq{color:#000000;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-0lax{text-align:left;vertical-align:top}
-  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-  </style>
+
   <table class="tg">
     <tr>
       <th class="tg-0lax" colspan="3">Accelerometer Data</th>
@@ -133,7 +123,7 @@
   ## Steps of this project
     - step 1:
       - load the data using pandas
-   - step 2:
+    - step 2:
       - Split the data into training and testing dataset
     - step 3:
       - Accuracy test based on the give training and testing dataset

@@ -127,5 +127,5 @@
       - Split the data into training and testing dataset
     - step 3:
       - Accuracy test based on the give training and testing dataset
-    -step 4:
+    - step 4:
       - feed the red marked data into the model and do the prediction
